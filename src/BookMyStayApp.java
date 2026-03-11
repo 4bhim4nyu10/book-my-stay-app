@@ -10,7 +10,7 @@ class Service {
     }
 }
 
-public class Main {
+public class BookMyStayApp {
 
     Map<String, List<Service>> reservationServices = new HashMap<>();
 
