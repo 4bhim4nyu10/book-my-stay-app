@@ -6,7 +6,7 @@ class InvalidRoomTypeException extends Exception {
     }
 }
 
-public class Main {
+public class BookMyStayApp {
 
     static void validateRoom(String roomType) throws InvalidRoomTypeException {
         if(!roomType.equals("Single") && !roomType.equals("Double") && !roomType.equals("Suite")) {
