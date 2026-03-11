@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class BookMyStayApp {
 
     Map<String,Integer> inventory = new HashMap<>();
     Map<String,String> reservations = new HashMap<>();
