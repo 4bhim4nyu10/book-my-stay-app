@@ -95,7 +95,7 @@ class RoomInventory {
 
 // -------------------- APPLICATION ENTRY --------------------
 
-public class Main {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
