@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class BookMyStayApp {
 
     // Queue for booking requests (FIFO)
     private Queue<String> bookingQueue = new LinkedList<>();
