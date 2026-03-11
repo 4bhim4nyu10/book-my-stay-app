@@ -12,7 +12,7 @@ class Reservation {
     }
 }
 
-public class Main {
+public class BookMyStayApp {
 
     List<Reservation> history = new ArrayList<>();
 
